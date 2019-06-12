@@ -16,7 +16,7 @@ workflow send sms this api :
 	send_date	optional	timestamp (current)
 How to use :
  1.
-	cheang information to customer/init.php
+	change information to customer/init.php
 		const BASE_URL = '' ;
 		const BASE_PATH = '' ;
  2.
