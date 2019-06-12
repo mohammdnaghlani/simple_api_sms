@@ -25,4 +25,3 @@ How to use :
 	check the customer/panel/view.php (is there information ? ) please checked by url .
 	check the phone/	please checked by path.
 	check the customer/db/sms.json (is it exsist there ? ) please checked by path.
-	send_date	optional	timestamp (current)
