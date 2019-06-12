@@ -1,0 +1,72 @@
+<pre>Array
+(
+    [result] => true
+    [message_id] => 2609110
+    [sender] => Array
+        (
+            [user_name] => noghol
+            [first_name] => mohammad
+            [last_name] => naghlani
+            [user_id] => 1357
+        )
+
+    [reception] => Array
+        (
+            [phone_number] => 09351028938
+            [text] => hi user 765
+            [title] => mywen.co
+            [area] => 0
+            [operator] => all
+            [send_date] => 1560348180
+        )
+
+)
+</pre>
+<pre>Array
+(
+    [result] => true
+    [message_id] => 5024133
+    [sender] => Array
+        (
+            [user_name] => noghol
+            [first_name] => mohammad
+            [last_name] => naghlani
+            [user_id] => 1750
+        )
+
+    [reception] => Array
+        (
+            [phone_number] => 09351028937
+            [text] => hi user 564
+            [title] => mywen.co
+            [area] => 0
+            [operator] => all
+            [send_date] => 1560348215
+        )
+
+)
+</pre>
+<pre>Array
+(
+    [result] => true
+    [message_id] => 7103952
+    [sender] => Array
+        (
+            [user_name] => noghol
+            [first_name] => mohammad
+            [last_name] => naghlani
+            [user_id] => 2732
+        )
+
+    [reception] => Array
+        (
+            [phone_number] => 09351028940
+            [text] =>  درخواست شما ثبت شد. 
+            [title] => mywen.co
+            [area] => 0
+            [operator] => all
+            [send_date] => 1560348301
+        )
+
+)
+</pre>
